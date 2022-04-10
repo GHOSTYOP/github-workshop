@@ -1,2 +1,2 @@
 # github-workshop
-RR
+2 day workshop for github
